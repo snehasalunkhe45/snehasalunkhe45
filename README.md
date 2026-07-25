@@ -5,14 +5,14 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/snehasalunkhe45">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8B5CE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9C%A8+Hi%2C+I'm+Sneha+Nitin+Salunkhe;%F0%9F%A7%A0+AI+Engineer+%7C+Full-Stack+Dev+%7C+Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8B5CE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9C%A8+Hi%2C+I'm+Sneha+Nitin+Salunkhe;%F0%9F%8E%A8+Frontend+Developer+%7C+AI+Enthusiast+%7C+Open+Source+Lover" alt="Typing SVG" />
 </a>
 
 <br>
 
 <!-- PASTEL BADGES ROW -->
 <img src="https://img.shields.io/badge/🎓_MirAI_B.Tech_Student-E8B5CE?style=for-the-badge&labelColor=E8B5CE" />
-<img src="https://img.shields.io/badge/🧠_AI_Enthusiast-B8D4E3?style=for-the-badge&labelColor=B8D4E3" />
+<img src="https://img.shields.io/badge/🎨_Frontend_Developer-B8D4E3?style=for-the-badge&labelColor=B8D4E3" />
 <img src="https://img.shields.io/badge/🚀_5+_Projects_Shipped-B5EAD7?style=for-the-badge&labelColor=B5EAD7" />
 
 </div>
@@ -45,21 +45,15 @@
 │    └──────────────────┘   🔤 Languages ..... Python, JS, C++, TS        │
 │                            🧠 AI/ML ......... TensorFlow, GenAI          │
 │                            🎨 Frameworks .... React, Next.js, Streamlit  │
-│                            🎮 Hobbies ....... AI Engineering, Gaming     │
+│                            🎮 Hobbies ....... UI/UX Design, Gaming       │
 │                            📫 Contact ....... snehasalunkhe394@gmail.com │
 │                            🌐 GitHub ........ snehasalunkhe45            │
 │                                                                         │
 │    ┌─────────────────────────────────────────────────────────────┐      │
-│    │  $ fortune | cowsay                                         │      │
-│    │  ╭──────────────────────────────────────────────────╮       │      │
-│    │  │ "The best way to predict the future is to        │       │      │
-│    │  │  build it." — Alan Kay                           │       │      │
-│    │  ╰──────────────────────────────────────────────────╯       │      │
-│    │         \   ^__^                                            │      │
-│    │          \  (oo)\_______                                    │      │
-│    │             (__)\       )\/\                                │      │
-│    │                 ||----w |                                   │      │
-│    │                 ||     ||                                   │      │
+│    │  $ echo $MOTTO                                              │      │
+│    │                                                             │      │
+│    │  "First, solve the problem. Then, write the code."          │      │
+│    │                                    — John Johnson           │      │
 │    └─────────────────────────────────────────────────────────────┘      │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
