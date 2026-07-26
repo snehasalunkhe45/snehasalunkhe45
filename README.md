@@ -11,8 +11,7 @@
 <br>
 
 <!-- PASTEL BADGES ROW -->
-<img src="https://img.shields.io/badge/🎓_MirAI_B.Tech_Student-E8B5CE?style=for-the-badge&labelColor=E8B5CE" />
-<img src="https://img.shields.io/badge/🎨_Frontend_Developer-B8D4E3?style=for-the-badge&labelColor=B8D4E3" />
+<img src="https://img.shields.io/badge/_Frontend_Developer-B8D4E3?style=for-the-badge&labelColor=B8D4E3" />
 <img src="https://img.shields.io/badge/🚀_5+_Projects_Shipped-B5EAD7?style=for-the-badge&labelColor=B5EAD7" />
 
 </div>
@@ -39,7 +38,7 @@
 │    │ │ ⣿⣿⣿⡟⢻⣿⣿⣿ │ │   🌸 Name .......... Sneha Nitin Salunkhe       │
 │    │ │ ⣿⣿⣿⣇⣸⣿⣿⣿ │ │   🖥️ OS ............ Windows 11                 │
 │    │ │ ⠸⣿⣿⣿⣿⣿⣿⠇ │ │   ⏱️ Uptime ........ 21 years                   │
-│    │ │  ⠈⠻⣿⣿⠟⠁⠀  │ │   🧬 Kernel ........ MirAI B.Tech Student       │
+│    │ │  ⠈⠻⣿⣿⠟⠁⠀  │ │   🧬 Kernel ........ Creative Developer           │
 │    │ │ ⠀⠀⠀⠙⠃⠀⠀⠀  │ │   📦 Packages ...... npm, pip, git               │
 │    │ ╰━━━━━━━━━━━━━━╯ │   💻 Shell ......... PowerShell 7               │
 │    └──────────────────┘   🔤 Languages ..... Python, JS, C++, TS        │
